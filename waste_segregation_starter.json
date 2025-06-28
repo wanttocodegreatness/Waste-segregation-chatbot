@@ -1,0 +1,102 @@
+[
+    {
+        "item": "banana peel",
+        "category": "biodegradable",
+        "disposal": "compost bin"
+    },
+    {
+        "item": "plastic bottle",
+        "category": "recyclable",
+        "disposal": "dry waste bin"
+    },
+    {
+        "item": "glass bottle",
+        "category": "recyclable",
+        "disposal": "dry waste bin"
+    },
+    {
+        "item": "used tissue paper",
+        "category": "biodegradable",
+        "disposal": "wet waste bin"
+    },
+    {
+        "item": "milk packet",
+        "category": "recyclable",
+        "disposal": "dry waste bin (rinsed)"
+    },
+    {
+        "item": "aluminum foil",
+        "category": "recyclable",
+        "disposal": "dry waste bin (cleaned)"
+    },
+    {
+        "item": "tea bag",
+        "category": "biodegradable",
+        "disposal": "compost bin"
+    },
+    {
+        "item": "styrofoam container",
+        "category": "non-recyclable",
+        "disposal": "reject waste bin"
+    },
+    {
+        "item": "expired medicine",
+        "category": "hazardous",
+        "disposal": "dispose at pharmacy / hazardous waste bin"
+    },
+    {
+        "item": "broken mirror",
+        "category": "non-recyclable",
+        "disposal": "reject waste bin (wrapped in newspaper)"
+    },
+    {
+        "item": "vegetable peels",
+        "category": "biodegradable",
+        "disposal": "compost bin"
+    },
+    {
+        "item": "sanitary napkin",
+        "category": "hazardous",
+        "disposal": "black bag / sanitary disposal bin"
+    },
+    {
+        "item": "cardboard box",
+        "category": "recyclable",
+        "disposal": "dry waste bin"
+    },
+    {
+        "item": "electronic waste",
+        "category": "e-waste",
+        "disposal": "e-waste collection center"
+    },
+    {
+        "item": "coconut shell",
+        "category": "biodegradable",
+        "disposal": "compost bin"
+    },
+    {
+        "item": "metal can",
+        "category": "recyclable",
+        "disposal": "dry waste bin"
+    },
+    {
+        "item": "food leftovers",
+        "category": "biodegradable",
+        "disposal": "compost bin"
+    },
+    {
+        "item": "battery",
+        "category": "hazardous",
+        "disposal": "e-waste collection point"
+    },
+    {
+        "item": "ceramic cup",
+        "category": "non-recyclable",
+        "disposal": "reject waste bin"
+    },
+    {
+        "item": "cloth bag",
+        "category": "reusable",
+        "disposal": "reuse or fabric recycling"
+    }
+]
